@@ -38,6 +38,7 @@ return true;
 
 ## Some interviewer tell you this also
 
+```
 const HeadingComponent = () => (
 
   <div id="container">
@@ -45,3 +46,4 @@ const HeadingComponent = () => (
     <h1 className="heading">This is Functional Component</h1>
   </div>
 );
+```
