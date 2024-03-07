@@ -17,7 +17,31 @@ If you have to give attribute in jsx then you have to use camel case
 
 HW: try img and a tag
 
+it is save you from crosssidescripting attack
+
 # Babel
 
 it is a trasnpiler
 it converts jsx to react elements
+
+## React Cmomponents
+
+Everything in a react is component
+Class based components - old
+Functiocal components - new
+
+const fn = () => true is equal to const fn = () =>{
+return true;
+}
+
+### this is component composition
+
+## Some interviewer tell you this also
+
+const HeadingComponent = () => (
+
+  <div id="container">
+    <Title/>
+    <h1 className="heading">This is Functional Component</h1>
+  </div>
+);
