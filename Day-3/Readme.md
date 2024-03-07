@@ -20,3 +20,4 @@ HW: try img and a tag
 # Babel
 
 it is a trasnpiler
+it converts jsx to react elements
