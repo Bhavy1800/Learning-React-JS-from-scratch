@@ -43,3 +43,13 @@ Two very important hooks
 2. useEffect()
 
 whenever state variable updates react re-renders the components
+
+- Virtal DOM is a represenataion of actual DOM
+
+``
+const arr = useState(resList);
+
+const [listOfRestaurants, setlistOfRestaurants] = arr;
+``
+
+#### above code is also work
